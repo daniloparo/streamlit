@@ -1,1 +1,6 @@
 yfinance
+streamlit
+plotly
+ephem
+pystan
+fbprophet
